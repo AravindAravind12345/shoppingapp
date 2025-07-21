@@ -1,0 +1,34 @@
+class Lapval{
+String imgs;
+String txt1;
+String txt2;
+
+
+Lapval(
+
+  this.imgs,
+  this.txt1,
+  this.txt2
+);
+
+}
+
+
+
+
+
+List<Lapval> lap = [
+  Lapval("assets/laptop1.png",
+      "Galaxy M33 (4GB | 64 GB ) AED 42900 AED74999", "10% off"),
+  Lapval("assets/laptop2.png",
+      "Galaxy M33 (4GB | 64 GB ) AED 42900 AED74999", "15% off"),
+  Lapval("assets/laptop3.png",
+      "Galaxy M33 (4GB | 64 GB ) AED 42900 AED74999", "10% off"),
+  Lapval("assets/laptop4.png",
+      "Galaxy M33 (4GB | 64 GB ) AED 42900 AED74999", "25% off"),
+  Lapval("assets/laptop5.png",
+      "Galaxy M33 (4GB | 64 GB ) AED 42900 AED74999", "20% off"),
+  Lapval("assets/laptop6.png",
+      "Galaxy M33 (4GB | 64 GB ) AED 42900 AED74999", "18% off")
+];
+
