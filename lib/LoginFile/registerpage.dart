@@ -97,7 +97,7 @@ class _RegisterpageState extends State<Registerpage> {
               child: TextFormField(
                 controller: phonecontroller,
                 decoration: InputDecoration(
-                    hintText: "Enter Your PhoneNumber",
+                    hintText: "Enter your PhoneNumber",
                     hintStyle: TextStyle(color: Colors.grey),
                     border: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(10))),
