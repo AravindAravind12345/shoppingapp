@@ -69,7 +69,7 @@ class _RegisterpageState extends State<Registerpage> {
                 Container(
                   child: Text("welcome Back!",
                       style: TextStyle(
-                          color: const Color.fromARGB(255, 87, 82, 82),
+                          color: const Color.fromARGB(255, 199, 42, 42),
                           fontSize: 20)),
                 ),
                 Container(
