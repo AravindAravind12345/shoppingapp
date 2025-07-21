@@ -110,7 +110,7 @@ class _HomepageState extends State<Homepage> {
                       Navigator.push(context, MaterialPageRoute(builder: (context)=>Categories()));
                     },
                     child: const Text("View all",
-                        style: TextStyle(color: Color.fromARGB(255, 4, 65, 114))),
+                        style: TextStyle(color: Color.fromARGB(255, 20, 153, 53))),
                   ),
                 ],
               ),
